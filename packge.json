@@ -1,0 +1,17 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "Json parser",
+  "main": "json-parse.js",
+  "scripts": {
+    "start": "node json-parse.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "tree-model": "*",
+    "http-status": "*"
+  }
+}
